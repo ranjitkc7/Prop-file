@@ -1,0 +1,29 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color:antiquewhite;
+  
+}
+h1{
+  text-align: center    ;
+}
+.Main-container{
+  display: flex;
+  gap:3rem;
+  padding-top: 2rem;
+  }
+  
+  .main-content{
+    font-size: 1rem;
+    font-weight: 100;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 1rem;
+}
